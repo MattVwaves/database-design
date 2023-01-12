@@ -1,3 +1,11 @@
 - As a customer, so I can receive my tickets, I want to provide my contact information.
 - As a customer, so I can decide which movie I want to watch, I want to see a list of movies.
+- As a customer, so I can decide when to go to the cinema, I want to see a list of showing times.
+- As a customer, so I know how it will cost to go to the cinema, I want to see a list of prices. 
+- As an unemployed customer, so I know if I get a discount for my work employment status, I want to see a list of prices. 
 - As an admin, so I can manage the movies shown at the cinema, I want to update the list of movies.
+- As an admin, so I can manage the movies shown at the cinema, I want to update the list of showing times.
+- As a manager, so I can evaluate the success of the films/cinema, I want to view a list of ticket sales. 
+- As a manager, so I can plan film screenings for the next month, I want to cross-reference forthcoming releases with available screens. 
+- As a manager, so I can decide which films to screen next month, I want to view a list of ticket sales. 
+- As an accountant, so I can cook the books (if necessary), I want to view a list of ticket sales. 
